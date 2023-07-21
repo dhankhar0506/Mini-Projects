@@ -1,0 +1,17 @@
+.button-container{
+    text-align: center; 
+}
+.play-button{
+    padding: 10px 25px;
+    border-radius: 10px;
+    background-color: rgb(71, 135, 209);
+    box-shadow: 0 0 5px goldenrod;
+    font-size: 18px;
+    color: whitesmoke;
+    font-weight: 800;
+    text-align: center;
+    margin: 20px;
+}
+.play-button:hover{
+    background-color: rgb(21, 110, 212);
+}

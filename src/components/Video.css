@@ -1,0 +1,50 @@
+.video-container{
+    background-color: #6d6d6d34;
+    /* border: 2px solid red; */
+    width: 20vw;
+    border-radius: 20px;
+    box-shadow: 0 0 5px red;
+    text-align: center;
+    position: relative;
+}
+.video-container img{
+    padding: 35px 0 ;
+    border-radius: 10px;
+    
+}
+
+.close{
+    position: absolute;
+    top: 1%;
+    right: 10%;
+    padding: 4px;
+}
+.edit{
+    position: absolute;
+    top: 1%;
+    right: 25%;
+    padding: 4px;
+    border-radius: 5px;
+    margin-bottom:5px;
+    color: #333;
+    font-weight: 700;
+    background-color: rgb(37, 135, 173);
+}
+
+
+
+
+.title{
+    font-size: 22px;
+    color: whitesmoke;
+    padding: 5px 0;
+}
+.channel{
+    font-size: 16px;
+    padding: 5px 0;
+    color: whitesmoke;
+}
+.views{
+    color: aliceblue;
+    padding-bottom: 8px;
+}
